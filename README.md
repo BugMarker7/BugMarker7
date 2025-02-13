@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and bug hunter
 - 🌱 Learning and exploring new technologies
 - 🐛 Specializing in identifying and fixing bugs
 - 💬 Ask me about software development, debugging, and best practices
-- 📫 How to reach me: [Gmail](lxg199788@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:lxg199788@gmail.com)
 - ⚡ Fun fact: I love traveling and playing video games in my free time
 
 ## My Skills
